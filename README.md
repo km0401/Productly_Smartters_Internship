@@ -1,4 +1,4 @@
-#Productly Clone
+## Productly Clone
 This is a fully responsive front end clone of Productly design built on Nextjs using MUI Library during Internship at Smartters' Studio. 
 https://themewagon.github.io/productly/v1.0.0/?_ga=2.210620501.1174388584.1679466764-997364695.1679466764
 
