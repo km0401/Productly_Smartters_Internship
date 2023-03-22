@@ -1,0 +1,88 @@
+.heroBannerContainer{
+  font-family: "Poppins", "Rubik", -apple-system, BlinkMacSystemFont, "Segoe UI",
+  "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+  "Segoe UI Symbol";
+    width: 100%;
+    margin-bottom: 600px;
+}
+
+.heroBannerTextContainer{
+    float: left;
+    text-align: left;
+    margin: 80px 30px 30px 50px;
+    /* width: 570px; */
+}
+
+.heroBannerHeading{
+    font-size: 3rem;
+    color: rgb(43, 42, 42);
+    font-weight: 800;
+    /* margin: 30px 20px 5px 20px; */
+}
+
+.heroBannerText{
+    color: rgb(43, 42, 42);
+    font-size: 1.3rem;
+    /* margin: 10px 20px 20px 20px; */
+}
+
+.heroBannerImage{
+    padding: 50px 50px 20px 20px;
+    float: right;
+}
+
+.heroBannerGetStartedButton{
+  all: unset;
+  color: #fffefe;
+  background-color: #ff9900;
+  border-color: #ff9900;
+  display: inline-block;
+  font-weight: 600;
+  line-height: 1.5;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  cursor: pointer;
+  user-select: none;
+  padding: 0.688rem 1.563rem;
+  font-size: 1rem;
+  border-radius: 0.25rem;
+  margin: 0px 5px;
+}
+
+.heroBannerVideoButton{
+    display: inline-block;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #2f281e;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  cursor: pointer;
+  user-select: none;
+  background-color: transparent;
+  border: 0.7px solid gray;
+  padding: 0.688rem 1.563rem;
+  font-size: 1rem;
+  border-radius: 0.25rem;
+  margin: 0px 5px;
+}
+
+.navbarSignUpButton {
+  all: unset;
+  color: #fffefe;
+  background-color: #ff9900;
+  border-color: #ff9900;
+  display: inline-block;
+  font-weight: 600;
+  line-height: 1.5;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  cursor: pointer;
+  user-select: none;
+  padding: 0.688rem 1.563rem;
+  font-size: 1rem;
+  border-radius: 0.25rem;
+  margin: 0px 10px;
+}

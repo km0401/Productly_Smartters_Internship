@@ -1,0 +1,41 @@
+.pricingContainer{
+  background-image: url("../../public/img/superhero/oval.png");
+  padding: 200px;
+  background-size: cover;
+  /*background-position: center;
+  overflow: hidden;
+  background-repeat: no-repeat; */
+  font-family: "Poppins", "Rubik", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+    text-align: center;
+}
+.textHeadingPricing{
+    font-size: 2rem;
+    color: rgb(32, 31, 31);
+}
+.textParagraphPricing{
+    font-size: 0.95rem;
+    color: gray;
+    width: 70%;
+    text-align: center;
+    margin: auto;
+}
+.contactButtonPricing{
+    all: unset;
+  color: #fffefe;
+  background-color: #ff9900;
+  border-color: #ff9900;
+  display: inline-block;
+  font-weight: 600;
+  line-height: 1.5;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  cursor: pointer;
+  user-select: none;
+  padding: 0.688rem 1.563rem;
+  font-size: 1rem;
+  border-radius: 0.25rem;
+  margin: 20px 0px;
+}
